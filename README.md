@@ -12,7 +12,7 @@
 <br>
 
 
-## Languages and Tools I use 👨‍💻
+## Languages and Tools that I use 👨‍💻
 <img align="left" alt="HTML5" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
